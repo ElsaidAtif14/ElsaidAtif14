@@ -21,7 +21,7 @@ I am a dedicated **Flutter Developer** and an IT Graduate specializing in buildi
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/elsaid-atif" target="_blank">
+  <a href="https://www.linkedin.com/in/elsaid-atif-6875812a3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/anaelsaid.atif" target="_blank">
