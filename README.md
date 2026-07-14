@@ -85,18 +85,16 @@ I am a dedicated **Flutter Developer** and an IT Graduate specializing in buildi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElsaidAtif14&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsaidAtif14&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ElsaidAtif14&theme=shadow_green&show_icons=true&locale=en" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElsaidAtif14&theme=shadow_green&layout=compact" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElsaidAtif14&theme=shadow_green&hide_border=false" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElsaidAtif14&theme=shadow_green" width="97%" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=ElsaidAtif14&icon=0&color=0" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=ElsaidAtif14&icon=0&color=0" alt="Visitor Count" />
-  </a>
+  <img src="https://profile-counter.glitch.me/ElsaidAtif14/count.svg" alt="Visitor Count" />
 </p>
